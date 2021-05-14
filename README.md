@@ -57,4 +57,4 @@
 <a href="https://dsc.bio/lpsebi"><img alt="Discord" src="https://img.shields.io/badge/Discord-LP_Sebi-blue?style=flat-square&logo=Discord"></a>
 <a href="https://www.google.de/maps/place/Deutschland/"><img alt="Country" src="https://img.shields.io/badge/Country-Germany-blue?style=flat-square&logo=germany"></a>
 <a href="mailto:sebastiangebauer0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-LP_Sebi-blue?style=flat-square&logo=gmail"></a>
-</p>
+</p> 
