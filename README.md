@@ -41,13 +41,19 @@
   ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)
 
 <br/>
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LPSebi&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPSebi&theme=buefy&layout=compact" />
+<a href="https://github.com/LPSebi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LPSebi&theme=radical&show_icons=true" />
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPSebi&theme=radical" />
+  
 </a>
 
 <br/>
+<a href="https://github.com/LPSebi/SebiBot">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=LPSebi&repo=SebiBot&theme=radical" />
+  
+</a>
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
