@@ -45,6 +45,8 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)
 
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/363616190377099265)](https://discord.com/users/363616190377099265)
 <br/>
 <a href="https://github.com/LPSebi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LPSebi&theme=radical&show_icons=true" />
