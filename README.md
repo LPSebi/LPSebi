@@ -51,7 +51,7 @@
 <br/>
 <a href="https://github.com/LPSebi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LPSebi&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrewuX&theme=radical&hide_border=false" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LPSebi&theme=radical&hide_border=false" />
   <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPSebi&theme=radical" />
   
