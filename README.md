@@ -54,7 +54,7 @@
   <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LPSebi&theme=radical&hide_border=false" />
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPSebi&theme=radical" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPSebi&theme=radical" /> -->
   
 </a>
 
