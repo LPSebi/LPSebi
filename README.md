@@ -37,7 +37,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=632C8C)
   <!-- ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=IntelliJ-IDEA&logoColor=632C8C) -->
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=632C8C)
+  <!-- ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=632C8C) -->
   <!--
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio) 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255) -->
