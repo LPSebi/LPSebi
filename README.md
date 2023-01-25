@@ -68,8 +68,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://sebibot.ml/"><img alt="Website" src="https://img.shields.io/badge/Website-sebibot.ml-blue?style=flat&logo=google-chrome"></a>
-<a href="https://dsc.bio/lpsebi"><img alt="Discord" src="https://img.shields.io/badge/Discord-LP_Sebi-blue?style=flat&logo=Discord"></a>
 <a href="https://www.google.de/maps/place/Deutschland/"><img alt="Country" src="https://img.shields.io/badge/Country-Germany-blue?style=flat&logo=germany"></a>
-<a href="mailto:contact@lpsebi.ml"><img alt="Email" src="https://img.shields.io/badge/Email-LPSebi-blue?style=flat&logo=gmail"></a>
 </p> 
