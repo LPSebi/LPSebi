@@ -1,12 +1,6 @@
 
 
-<h2> Hey there! I'm LP_Sebi.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Learning more about Cloud Systems, Telecomunication and Tools.
-- ✍️ &nbsp; Pursuing Programming as hobbie.
+<h2> Hey there! I'm Sebastian.</h2>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
