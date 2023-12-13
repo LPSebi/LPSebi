@@ -50,17 +50,18 @@
   ![Vercel](https://img.shields.io/badge/vercel-333333?style=for-the-badge&logo=vercel&logoColor=%23000000)
   ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-333333?style=for-the-badge&logo=digitalOcean&logoColor=%230167ff)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/363616190377099265)](https://discord.com/users/363616190377099265)
 <br/>
 <a href="https://github.com/LPSebi">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LPSebi&theme=radical&hide_border=false" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=LPSebi&theme=radical&hide_border=false](https://github-readme-streak-stats.herokuapp.com?user=LPSebi&theme=tokyonight-duo&hide_border=true&mode=weekly&exclude_days=Sun%2CSat&background=1A1C1F" />
+</a>
+<a href="https://discord.com/users/363616190377099265">
+  <img width="50%" src="https://lanyard-profile-readme.vercel.app/api/363616190377099265" />
   <br/>
-
-  
 </a>
 
 <br/>
-
 <p align="center">
-<a href="https://www.google.de/maps/place/Deutschland/"><img alt="Country" src="https://img.shields.io/badge/Country-Germany-red?style=for-the-badge&logo=germany"></a>
+  <a href="https://www.google.de/maps/place/Deutschland/">
+    <img alt="Country" src="https://img.shields.io/badge/Country-Germany-orange?style=for-the-badge&logo=germany">
+  </a>
 </p> 
