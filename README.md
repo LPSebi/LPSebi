@@ -2,7 +2,7 @@
 
 <h2> Hey there! I'm Sebastian.</h2>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tools I use almost every day:</h3>
 
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
