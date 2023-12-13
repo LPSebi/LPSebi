@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Sebastian. A 16 y/o Software Engineer from Frankfurt, Germany</h2>
+<h2> Hey! I'm Sebastian. A 16 y/o Software Engineer from Frankfurt, Germany</h2>
 
 <h3> 🛠 &nbsp;Tools I use almost every day:</h3>
 
