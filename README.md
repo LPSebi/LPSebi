@@ -1,4 +1,4 @@
-
+![](https://github.com/LPSebi/LPSebi/blob/main/media/header.png)
 
 <h2> Hey! I'm Sebastian. A 16 y/o Software Engineer from Frankfurt, Germany</h2>
 
