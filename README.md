@@ -1,3 +1,4 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"></meta>
 ![](https://github.com/LPSebi/LPSebi/blob/main/media/header.png)
 
 <h2> Hey, <img src="https://github.com/lpsebi/lpsebi/blob/main/media/wave.gif" width="25px" height="25px"><br/>
@@ -58,7 +59,7 @@
   [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-333333?style=for-the-badge&logo=digitalOcean&logoColor=%230167ff)](https://www.wikiwand.com/en/DigitalOcean)
 
 <br/>
-<a href="https://github.com/LPSebi">
+<a id="imgs" href="https://github.com/LPSebi">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=LPSebi&theme=radical&hide_border=false](https://github-readme-streak-stats.herokuapp.com?user=LPSebi&theme=tokyonight-duo&hide_border=true&mode=weekly&exclude_days=Sun%2CSat&background=1A1C1F" />
 </a>
 <a href="https://discord.com/users/363616190377099265">
@@ -69,6 +70,8 @@
 <br/>
 <p align="center">
   <a href="https://www.google.de/maps/place/Deutschland/">
-    <img alt="Country" src="https://img.shields.io/badge/Country-Germany-orange?style=for-the-badge&logo=germany">
+     <img alt="Country" src="https://img.shields.io/badge/Country-Germany-lightblue?style=for-the-badge&logo=germany">
+     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLPSebi%2FLPSebi&label=VISITORS&labelColor=%23333333&countColor=%23add8e6&style=square" />
   </a>
 </p> 
+
