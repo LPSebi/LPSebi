@@ -1,6 +1,7 @@
 ![](https://github.com/LPSebi/LPSebi/blob/main/media/header.png)
 
-<h2> Hey! I'm Sebastian. A 16 y/o Software Engineer from Frankfurt, Germany</h2>
+<h2> Hey, <img src="https://github.com/lpsebi/lpsebi/blob/main/media/wave.gif" width="25px" height="25px"><br/>
+     I'm Sebastian. A 16 y/o Software Engineer from Frankfurt, Germany</h2>
 
 <h3> 🛠 &nbsp;Tools I use almost every day:</h3>
 
