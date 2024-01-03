@@ -13,6 +13,7 @@
   [![JavaScript](https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.wikiwand.com/en/JavaScript)
   [![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript)](https://www.wikiwand.com/en/TypeScript)
   [![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)](https://www.wikiwand.com/en/Python)
+    [![C#](https://img.shields.io/badge/-C%23-333333?style=for-the-badge&logo=csharp&logoColor=239120)](https://www.wikiwand.com/en/C-Sharp)
   [![C++](https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=C%2B%2B&logoColor=00599c)](https://www.wikiwand.com/en/C%2B%2B)
   [![Lua](https://img.shields.io/badge/-Lua-333333?style=for-the-badge&logo=Lua&logoColor=007396)](https://www.wikiwand.com/en/Lua)
   [![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=Node.js)](https://www.wikiwand.com/en/Node.js)
