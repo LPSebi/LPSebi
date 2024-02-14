@@ -32,6 +32,7 @@
   [![SQLite](https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=49A7DD)](https://www.wikiwand.com/en/SQLite)
   [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)](https://www.wikiwand.com/en/MySQL)
   [![MariaDB](https://img.shields.io/badge/MariaDB-333333?style=for-the-badge&logo=mariadb)](https://www.wikiwand.com/en/MariaDB)
+  [![Redis](https://img.shields.io/badge/Redis-333333?style=for-the-badge&logo=redis&logoColor=DC382D)](https://www.wikiwand.com/en/Redis)
   
 - ⚙️ &nbsp;
   [![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)](https://www.wikiwand.com/en/Git)
@@ -58,9 +59,11 @@
   
 - ☁️ &nbsp;
   [![Cloudflare](https://img.shields.io/badge/Cloudflare-333333?style=for-the-badge&logo=Cloudflare&logoColor=F38020)](https://www.wikiwand.com/en/Cloudflare)
-  [![AWS](https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900)](https://www.wikiwand.com/en/Amazon_Web_Services)
   [![Vercel](https://img.shields.io/badge/vercel-333333?style=for-the-badge&logo=vercel&logoColor=%23000000)](https://www.wikiwand.com/en/Vercel)
   [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-333333?style=for-the-badge&logo=digitalOcean&logoColor=%230167ff)](https://www.wikiwand.com/en/DigitalOcean)
+  [![Planetscale](https://img.shields.io/badge/Planetscale-333333?style=for-the-badge&logo=planetscale&logoColor=00000000)](https://www.wikiwand.com/en/Planetscale)
+  [![AWS](https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900)](https://www.wikiwand.com/en/Amazon_Web_Services)
+  [![Upstash](https://img.shields.io/badge/Upstash-333333?style=for-the-badge&logo=upstash&logoColor=#6ee7b7)](https://www.wikiwand.com/en/Upstash)
 
 <br/>
 <a id="imgs" href="https://github.com/LPSebi">
