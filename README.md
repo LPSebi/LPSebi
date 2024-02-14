@@ -44,6 +44,7 @@
 - 🔧 &nbsp;
   [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://www.wikiwand.com/en/Visual_Studio_Code)
   [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=for-the-badge&logo=visual-studio-code&logoColor=632C8C)](https://www.wikiwand.com/en/Microsoft_Visual_Studio)
+  [![JetBrains IDE's](https://img.shields.io/badge/-JetBrains%20IDE%27s-333333?style=for-the-badge&logo=JetBrains&logoColor=00000000)](https://www.wikiwand.com/en/JetBrains)
   [![Docker](https://img.shields.io/badge/docker-333333?style=for-the-badge&logo=docker&logoColor=%230db7ed)](https://www.wikiwand.com/en/Docker_(software))
   [![Postman](https://img.shields.io/badge/Postman-333333?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://www.wikiwand.com/en/Postman_(software))
   
