@@ -79,8 +79,8 @@
 <br/>
 <p align="center">
   <a href="https://www.google.de/maps/place/Deutschland/">
-     <img alt="Country" src="https://img.shields.io/badge/Country-Germany-lightblue?style=for-the-badge&logo=germany&labelColor=333333">
-     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLPSebi%2FLPSebi&label=VISITORS&labelColor=%23333333&countColor=%23add8e6&style=square" />
+     <img alt="Country" src="https://img.shields.io/badge/Country-Germany-%23a020f0?style=for-the-badge&logo=germany&labelColor=333333">
+     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLPSebi%2FLPSebi&label=VISITORS&labelColor=%23333333&countColor=%23a020f0&style=square" />
   </a>
 </p> 
 
