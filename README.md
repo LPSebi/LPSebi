@@ -6,7 +6,6 @@
 
 ![](https://github.com/LPSebi/LPSebi/blob/main/media/header.png)
 
-
 <h3> 🛠 &nbsp;Tools I use almost every day:</h3>
 
 - 💻 &nbsp;
