@@ -67,6 +67,7 @@
   [![Upstash](https://img.shields.io/badge/Upstash-333333?style=for-the-badge&logo=upstash&logoColor=#6ee7b7)](https://www.wikiwand.com/en/Upstash)
 
 <br/>
+
 <a id="imgs" href="https://github.com/LPSebi">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=LPSebi&theme=radical&hide_border=false](https://github-readme-streak-stats.herokuapp.com?user=LPSebi&theme=tokyonight-duo&hide_border=true&mode=weekly&exclude_days=Sun%2CSat&background=1A1C1F" />
 </a>
@@ -74,6 +75,9 @@
   <img width="50%" src="https://lanyard-profile-readme.vercel.app/api/363616190377099265" />
   <br/>
 </a>
+
+<br/>
+<img src="https://wakatime.com/share/@fl0ww/ba081435-881a-49fd-a4f8-2627e8db9c4e.svg"></img>
 
 <br/>
 <p align="center">
