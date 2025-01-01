@@ -1,7 +1,7 @@
  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"></meta>
 
 <h2> Hey, <img src="https://github.com/lpsebi/lpsebi/blob/main/media/wave.gif" width="25px" height="25px"><br/>
-     I'm Sebastian. A 17 y/o Software Engineer from Frankfurt, Germany
+     I'm Sebastian. An 18 y/o Software Engineer from Frankfurt, Germany
 </h2>
 
 ![](https://github.com/LPSebi/LPSebi/blob/main/media/header.png)
